@@ -42,7 +42,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'David Argenis','Tirado','Aramburo','04/02/1993','TIAD930204',17000,2,'APROBADO'),(2,'Eduardo','Perez','Gonzalez','15/12/1985','PEGE851215',18000,3,'RECHAZADO'),(3,'Sofia','Gutierrez','Montes','07/04/1998','GUMS980407',14000,0,'RECHAZADO'),(4,'Esther','Diaz','Sanchez','23/09/1990','DISE900923',21000,2,'APROBADO'),(5,'Juan','Garcia','Lopez','11/10/1984','GALJ841011',33000,3,'APROBADO'),(6,'Luisa','Jimenez','Hernandez','03/05/1984','JIHL840503',28000,2,'APROBADO');
+INSERT INTO `users` VALUES (1,'Margarito','Rodriguez','Ramirez','04/02/1996','RORM960204',17000,2,'APROBADO'),(2,'Eduardo','Perez','Gonzalez','15/12/1985','PEGE851215',18000,3,'RECHAZADO'),(3,'Sofia','Gutierrez','Montes','07/04/1998','GUMS980407',14000,0,'RECHAZADO'),(4,'Esther','Diaz','Sanchez','23/09/1990','DISE900923',21000,2,'APROBADO'),(5,'Juan','Garcia','Lopez','11/10/1984','GALJ841011',33000,3,'APROBADO'),(6,'Luisa','Jimenez','Hernandez','03/05/1984','JIHL840503',28000,2,'APROBADO');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 
